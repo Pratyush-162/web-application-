@@ -1,0 +1,22 @@
+{
+  "name": "fraudapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.3",
+    "maxmind": "^2.7.0",
+    "nexmo": "^2.4.0",
+    "pug": "^2.0.3"
+  }
+}
